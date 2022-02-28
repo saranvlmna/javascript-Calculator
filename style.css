@@ -1,0 +1,40 @@
+.main{
+width: 600px;
+height: 750px;
+border: 1px solid 1px;
+background-color: rgb(129, 129, 124);
+margin-top: 50px;
+margin-left: 30%;
+margin-right: 20px;
+border: solid;color: rgb(129, 129, 124);
+border-radius: 20px;
+}
+#screen{
+    width: 80%;
+    margin-left: 40px;
+    height: 80px;
+    margin-top: 50px;
+    pointer-events: none;
+    border: solid;
+    border-radius: 20px;
+}
+.btn{
+    width: 70px;
+    height: 70px;
+    border: solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    color: #43911c;
+    font-size: large;
+    font-weight: bold;
+}
+.btns{
+    padding-left: 70px;
+    padding-top: 51px;
+}
+#dis{
+    border: solid;
+    border-radius: 20px;
+}
+
